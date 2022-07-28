@@ -1,0 +1,6 @@
+XE11-ERR32-resource busy
+AD34-ERR25-permission denied
+CF23-ERR28-not accessible
+CF23-ERR31-invalid request
+FT18-ERR14-waiting queue full
+VG34-ERR2A-unknown ''
